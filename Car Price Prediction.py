@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 from scipy.stats import skew
-%matplotlib inline
+#%matplotlib inline
 
  
 import matplotlib.pyplot as plt
